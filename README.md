@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DevGoatNL
+- 👀 I’m interested in: javascript code's for a discord bot
+- 🌱 I’m currently learning: Javascript, HTML, CSS, Java.
+- 📫 How to reach me: DevGoatNL@hotmail.com
+- 🤖 My favorite module for javascript: Discord.js
