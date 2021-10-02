@@ -5,14 +5,13 @@
 
 - 🔭 Working on **Discord Bots**
 - 🧑‍💻 Contributing to **Open Source**
-- 🌱 Learning **Python**
-- ⚡ Fun fact **My name is L0SER**
+- 🌱 Learning **css**
+- ⚡ Fun fact **My real name is Lubbert Schenk**
 
 <hr>
 
 <h3 align="left">Contact</h3>
-<a href="https://discord.com/users/668157292927254587" target="_blank"> <img src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" alt="Discord Profile" width="40" height="40"/> </a>
-<a href="https://dev.to/l0ser8228" target="_blank"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile" height="30" width="30"> </a>
+<a href="https://discord.com/users/718155893052670012" target="_blank"> <img src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" alt="Discord Profile" width="40" height="40"/> </a>
 
 <hr>
 
